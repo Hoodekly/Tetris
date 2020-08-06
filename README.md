@@ -1,2 +1,2 @@
 # Tetris
-A common tetris made in Unity.
+Simple Tetris.
